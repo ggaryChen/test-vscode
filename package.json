@@ -40,8 +40,5 @@
 	},
 	"dependencies": {
 		"eslint-plugin-prettier": "^3.1.4"
-	},
-	"prettier": {
-		"singleQuote": true
 	}
 }

@@ -22,6 +22,11 @@
 		"no-unused-vars": "warn",
 		"constructor-super": "warn",
 		"valid-typeof": "warn",
-		"prettier/prettier": "warn"
-	}
+		"prettier/prettier": [
+      1,
+      {
+        "singleQuote": true
+      }
+    ]
+  }
 }
