@@ -11,8 +11,8 @@
 		"Other"
 	],
 	"activationEvents": [
-    "onCommand:test.helloWorld",
-    "onCommand:test.xxx"
+		"onCommand:test.helloWorld",
+		"onCommand:test.xxx"
 	],
 	"main": "./extension.js",
 	"contributes": {
