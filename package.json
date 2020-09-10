@@ -3,6 +3,7 @@
 	"displayName": "test",
 	"description": "",
 	"version": "0.0.1",
+	"publisher": "garychen",
 	"engines": {
 		"vscode": "^1.48.0"
 	},
